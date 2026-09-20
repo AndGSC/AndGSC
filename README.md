@@ -1,15 +1,13 @@
 <!-- ===================== BANNER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Andrey+%F0%9F%91%8B;Hola%2C+soy+Andrey+%F0%9F%91%8B;Salut%2C+je+suis+Andrey+%F0%9F%91%8B;Databases+%7C+Frontend+%7C+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Andrey+%F0%9F%91%8B;Hola%2C+soy+Andrey+%F0%9F%91%8B;Salut%2C+je+suis+Andrey+%F0%9F%91%8B;Software+Developer;C%2B%2B+%7C+Python+%7C+Java+%7C+HTML+%7C+CSS+%7C+JS;MySQL+%7C+PostgreSQL+%7C+SQL+Server" alt="Typing SVG" />
 </h1>
 
 <!-- ===================== BADGES PRINCIPALES ===================== -->
 <p align="center">
+  <img src="https://img.shields.io/badge/Programming-2E9EF7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge&logo=databricks&logoColor=white" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
 </p>
 
 <br/>
@@ -37,39 +35,33 @@
 <!-- =====================   ENGLISH   ======================= -->
 <!-- ========================================================= -->
 <details open>
-<summary><b>🇬🇧&nbsp;&nbsp;English</b></summary>
+<summary><b>🇺🇸&nbsp;&nbsp;English</b></summary>
 
 <br/>
 
 ### 🚀 About me
 
-I'm a **Full Stack Developer** focused on building complete, well-modeled and
-secure applications. I work with **Python, Java and SQL**, and I'm currently
-going deeper into **databases**, **applied security** and **AI**.
+I'm a **Software Developer** focused on building complete, well-modeled and
+secure applications. I work with **C++, Python, Java, HTML, CSS and JavaScript**,
+and I have solid experience with **MySQL, PostgreSQL and SQL Server**.
 
-- 🔭 Currently building Full Stack projects with a backend focus.
+- 🔭 Currently building software projects with a backend focus.
 - 🌱 Learning advanced data modeling, query optimization and security.
 - 🎯 Goal: become a reference in **Databases + Security + AI**.
-- 💬 Ask me about Python, Java, SQL or AI integration.
+- 💬 Ask me about C++, Python, Java, HTML, CSS, JavaScript or SQL.
 - 📫 Reach me: **andrey1gsc@gmail.com**
 
-### 🎯 Areas of interest
+### 🎯 Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Databases-336791?style=flat-square" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Frontend-61DAFB?style=flat-square" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Security-000000?style=flat-square" />
-</p>
+**Programming:** C++ · Python · Java · HTML · CSS · JavaScript
 
-### 📌 Featured projects
+**Databases:** MySQL · PostgreSQL · SQL Server
+
+### 📌 Featured project
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| 🔗 [Project 1](https://github.com/AndGSC) | Full Stack app with authentication and database. | Python · PostgreSQL |
-| 🔗 [Project 2](https://github.com/AndGSC) | REST API with Java and optimized relational model. | Java · MySQL |
-| 🔗 [Project 3](https://github.com/AndGSC) | AI-applied project with data analysis. | Python · AI |
+| 🔗 [Calendario de Actividades Sociales](https://github.com/AndGSC/Calendario-de-Actividades-Sociales) | Web app to publish, discover and organize attendance to social, cultural and political activities. Features JWT authentication, activity management with logical deletion, public agenda, participation tracking, threaded comments, admin moderation and activity history. | Node.js · Express · PostgreSQL · React · TypeScript · Vite · Docker |
 
 </details>
 
@@ -79,39 +71,33 @@ going deeper into **databases**, **applied security** and **AI**.
 <!-- =====================   ESPAÑOL   ======================= -->
 <!-- ========================================================= -->
 <details>
-<summary><b>🇪🇸&nbsp;&nbsp;Español</b></summary>
+<summary><b>🇨🇷&nbsp;&nbsp;Español</b></summary>
 
 <br/>
 
 ### 🚀 Sobre mí
 
-Soy desarrollador **Full Stack** enfocado en construir aplicaciones completas,
-bien modeladas y seguras. Trabajo con **Python, Java y SQL**, y actualmente
-profundizo en **bases de datos**, **seguridad aplicada** e **IA**.
+Soy **desarrollador de software** enfocado en construir aplicaciones completas,
+bien modeladas y seguras. Trabajo con **C++, Python, Java, HTML, CSS y JavaScript**,
+y tengo experiencia sólida con **MySQL, PostgreSQL y SQL Server**.
 
-- 🔭 Actualmente construyendo proyectos Full Stack con foco en backend.
+- 🔭 Actualmente construyendo proyectos de software con foco en backend.
 - 🌱 Aprendiendo modelado avanzado de datos, optimización de consultas y seguridad.
 - 🎯 Meta: convertirme en referente en **Bases de Datos + Seguridad + IA**.
-- 💬 Pregúntame sobre Python, Java, SQL o integración de IA.
+- 💬 Pregúntame sobre C++, Python, Java, HTML, CSS, JavaScript o SQL.
 - 📫 Contáctame: **andrey1gsc@gmail.com**
 
-### 🎯 Áreas de interés
+### 🎯 Habilidades
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Bases%20de%20Datos-336791?style=flat-square" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Frontend-61DAFB?style=flat-square" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Seguridad-000000?style=flat-square" />
-</p>
+**Programación:** C++ · Python · Java · HTML · CSS · JavaScript
 
-### 📌 Proyectos destacados
+**Bases de datos:** MySQL · PostgreSQL · SQL Server
+
+### 📌 Proyecto destacado
 
 | Proyecto | Descripción | Stack |
 | --- | --- | --- |
-| 🔗 [Proyecto 1](https://github.com/AndGSC) | App Full Stack con autenticación y base de datos. | Python · PostgreSQL |
-| 🔗 [Proyecto 2](https://github.com/AndGSC) | API REST con Java y modelo relacional optimizado. | Java · MySQL |
-| 🔗 [Proyecto 3](https://github.com/AndGSC) | Proyecto con IA aplicada y análisis de datos. | Python · IA |
+| 🔗 [Calendario de Actividades Sociales](https://github.com/AndGSC/Calendario-de-Actividades-Sociales) | Aplicación web para publicar, descubrir y organizar la asistencia a actividades sociales, culturales y políticas. Incluye autenticación con JWT, gestión de actividades con borrado lógico, agenda pública, seguimiento de participaciones, comentarios anidados, moderación por administradores e historial de cambios. | Node.js · Express · PostgreSQL · React · TypeScript · Vite · Docker |
 
 </details>
 
@@ -127,34 +113,28 @@ profundizo en **bases de datos**, **seguridad aplicada** e **IA**.
 
 ### 🚀 À propos de moi
 
-Je suis **développeur Full Stack** et je me concentre sur la création
+Je suis **développeur logiciel** et je me concentre sur la création
 d'applications complètes, bien modélisées et sécurisées. Je travaille avec
-**Python, Java et SQL**, et j'approfondis actuellement les **bases de données**,
-la **sécurité appliquée** et l'**IA**.
+**C++, Python, Java, HTML, CSS et JavaScript**, et j'ai une solide expérience
+avec **MySQL, PostgreSQL et SQL Server**.
 
-- 🔭 Je développe actuellement des projets Full Stack orientés backend.
+- 🔭 Je développe actuellement des projets logiciels orientés backend.
 - 🌱 J'apprends la modélisation avancée des données, l'optimisation des requêtes et la sécurité.
 - 🎯 Objectif : devenir une référence en **Bases de données + Sécurité + IA**.
-- 💬 Posez-moi des questions sur Python, Java, SQL ou l'intégration de l'IA.
+- 💬 Posez-moi des questions sur C++, Python, Java, HTML, CSS, JavaScript ou SQL.
 - 📫 Contact : **andrey1gsc@gmail.com**
 
-### 🎯 Domaines d'intérêt
+### 🎯 Compétences
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Bases%20de%20donn%C3%A9es-336791?style=flat-square" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Frontend-61DAFB?style=flat-square" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/S%C3%A9curit%C3%A9-000000?style=flat-square" />
-</p>
+**Programmation :** C++ · Python · Java · HTML · CSS · JavaScript
 
-### 📌 Projets phares
+**Bases de données :** MySQL · PostgreSQL · SQL Server
+
+### 📌 Projet phare
 
 | Projet | Description | Stack |
 | --- | --- | --- |
-| 🔗 [Projet 1](https://github.com/AndGSC) | Application Full Stack avec authentification et base de données. | Python · PostgreSQL |
-| 🔗 [Projet 2](https://github.com/AndGSC) | API REST en Java avec modèle relationnel optimisé. | Java · MySQL |
-| 🔗 [Projet 3](https://github.com/AndGSC) | Projet avec IA appliquée et analyse de données. | Python · IA |
+| 🔗 [Calendario de Actividades Sociales](https://github.com/AndGSC/Calendario-de-Actividades-Sociales) | Application web pour publier, découvrir et organiser la participation à des activités sociales, culturelles et politiques. Comprend une authentification JWT, la gestion des activités avec suppression logique, un agenda public, le suivi des participations, des commentaires imbriqués, une modération par les administrateurs et un historique des modifications. | Node.js · Express · PostgreSQL · React · TypeScript · Vite · Docker |
 
 </details>
 
